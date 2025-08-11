@@ -32,7 +32,7 @@
     font-family: var(--font-poppins);
     color: var(--azul-titulo);
 
-    background: url("/src/img/Email.svg");
+    background: url("../img/Email.svg");
     background-repeat: no-repeat;
     padding-left: 2em;
 }
